@@ -3,6 +3,9 @@ RENCANA BELAJAR WPU
 - JavaScript
   * ES6
   * JavaScript Framework
+   > Angular
+   > React
 - PHP Frameworks
+ * Laravel
 - Interview
 - vlogs
