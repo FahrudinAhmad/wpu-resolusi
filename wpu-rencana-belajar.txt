@@ -4,6 +4,7 @@ RENCANA BELAJAR WPU
   * ES6
   * JavaScript Framework
    > Vue
+   > Angular
    > React
 - PHP Frameworks
  * Laravel
